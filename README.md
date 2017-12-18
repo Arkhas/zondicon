@@ -1,6 +1,6 @@
 # Usage
 
-`<link rel="stylesheet" href="zondicon.css"></head>`
+`<link rel="stylesheet" href="zondicon.css">`
 
 `<i class="fa-{icon-name}"></i>`
 
