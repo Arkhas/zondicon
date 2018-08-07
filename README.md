@@ -4,8 +4,8 @@
 
 Then go to this page http://www.zondicons.com/icons.html for the `{icon-name}`
 
-`<i class="fa-{icon-name}"></i>`
+`<i class="zi-{icon-name}"></i>`
 
 # Example 
 
-`<i class="fa-add-outline"></i>`
+`<i class="zi-add-outline"></i>`
